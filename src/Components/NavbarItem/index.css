@@ -1,0 +1,37 @@
+.navbar-container {
+  width: 25%;
+}
+.list-container {
+  padding-left: 0px;
+}
+.list-item {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.navbar-list-heading {
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin: 0px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.navbar-items-logo {
+  font-size: 25px;
+  color: #64748b;
+  margin-right: 10px;
+}
+
+.list-item1 {
+  border-left: 5px solid orange;
+  list-style-type: none;
+  display: flex;
+  border-radius: 5px;
+  align-items: center;
+  padding: 5px;
+  margin-bottom: 20px;
+}
